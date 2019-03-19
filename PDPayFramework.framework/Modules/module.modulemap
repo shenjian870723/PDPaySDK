@@ -1,0 +1,6 @@
+framework module PDPayFramework {
+  umbrella header "PDPayFramework.h"
+
+  export *
+  module * { export * }
+}
